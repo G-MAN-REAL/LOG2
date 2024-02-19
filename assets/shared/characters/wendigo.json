@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				125,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				141,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				93,
+				219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				74,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				21
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-125,
+				66
+			],
+			"anim": "appear",
+			"fps": 10,
+			"name": "appear",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/wendigo",
+	"position": [
+		-440,
+		-170
+	],
+	"healthicon": "gary-robitussinmode",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		600,
+		375
+	],
+	"bitmapArray": null,
+	"sing_duration": 4,
+	"scale": 1
+}

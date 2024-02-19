@@ -1,0 +1,126 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "Okay, okay! Not bad!",
+			"background": "cutsceneback",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "bf",
+			"music": "Gary_Demo_Cutscene_-_Sewer_Song"
+		},
+		{
+			"expression": "talk",
+			"text": "I’m already eager to sing the next song!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Next song?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "Trust me, Gary, when it comes to Boyfriend, there’s ALWAYS another song once you’re done with only one.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "normal",
+			"text": "I suppose that is fair enough to expect.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gary"
+		},
+		{
+			"expression": "normal",
+			"text": "Very well. We should waste no time, then!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "I mean if you want to talk for a bit, there’s no need to rush or anything.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "New song, new song! Play it, play it!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Quietly) Boyfriend!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "normal",
+			"text": "Well, if he’s rather excited to continue, then so am I.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "normal",
+			"text": "That’s what you came to do here after all, isn’t it? Sounds like there’s a bit of reluctancy there, did something catch your attention?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "Let’s just say it’s better to enjoy the moments you share in life. Thought we could just pass the time and maybe get to know each other.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Besides, we never know when it will be-...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oops, my hand slipped on the play button!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "AAAND the song is starting.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	],
+	"name": "excitement"
+}

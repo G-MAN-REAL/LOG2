@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gelkazedek_P3_Ravager_Wendio_SpriteSheet.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gelkazedek_Phase3_Idle0000" x="3" y="3" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0001" x="3" y="3" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0002" x="1280" y="3" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0003" x="1280" y="3" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0004" x="2557" y="3" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0005" x="3" y="781" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0006" x="1280" y="781" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0007" x="1280" y="781" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0008" x="2557" y="781" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0009" x="2557" y="781" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0010" x="3" y="1559" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0011" x="3" y="1559" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0012" x="1280" y="1559" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0013" x="1280" y="1559" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0014" x="1280" y="1559" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Idle0015" x="2557" y="1559" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0000" x="3" y="2337" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0001" x="3" y="2337" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0002" x="1280" y="2337" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0003" x="1280" y="2337" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0004" x="1280" y="2337" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0005" x="2557" y="2337" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0006" x="2557" y="2337" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0007" x="2557" y="2337" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0008" x="2557" y="2337" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0009" x="2557" y="2337" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0010" x="3" y="3115" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0011" x="3" y="3115" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0012" x="3" y="3115" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0013" x="3" y="3115" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Left0014" x="3" y="3115" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0000" x="1280" y="3115" width="1274" height="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0001" x="1280" y="3115" width="1274" height="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0002" x="2557" y="3115" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0003" x="2557" y="3115" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0004" x="2557" y="3115" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0005" x="3" y="3922" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0006" x="3" y="3922" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0007" x="3" y="3922" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0008" x="3" y="3922" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0009" x="3" y="3922" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0010" x="1280" y="3922" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0011" x="1280" y="3922" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0012" x="1280" y="3922" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0013" x="1280" y="3922" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_Up0014" x="1280" y="3922" width="1274" height="793" frameX="0" frameY="-11" frameWidth="1274" frameHeight="804"/>
+	<SubTexture name="Gelkazedek_Phase3_down0000" x="2557" y="3922" width="1274" height="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0001" x="2557" y="3922" width="1274" height="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0002" x="3" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0003" x="3" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0004" x="3" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0005" x="1280" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0006" x="1280" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0007" x="1280" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0008" x="1280" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0009" x="1280" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0010" x="2557" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0011" x="2557" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0012" x="2557" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0013" x="2557" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0014" x="2557" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_down0015" x="3" y="4718" width="1274" height="780" frameX="0" frameY="0" frameWidth="1274" frameHeight="784"/>
+	<SubTexture name="Gelkazedek_Phase3_right0000" x="3" y="5501" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0001" x="3" y="5501" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0002" x="1280" y="5501" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0003" x="1280" y="5501" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0004" x="1280" y="5501" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0005" x="2557" y="5501" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0006" x="2557" y="5501" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0007" x="2557" y="5501" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0008" x="2557" y="5501" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0009" x="2557" y="5501" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0010" x="3" y="6279" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0011" x="3" y="6279" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0012" x="3" y="6279" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0013" x="3" y="6279" width="1274" height="775"/>
+	<SubTexture name="Gelkazedek_Phase3_right0014" x="3" y="6279" width="1274" height="775"/>
+</TextureAtlas>

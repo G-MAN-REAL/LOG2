@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"bitmapNum": 0,
+			"offsets": [
+				0,
+				-37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "entity_idle instance"
+		},
+		{
+			"bitmapNum": 0,
+			"offsets": [
+				-57,
+				-123
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "entity_down instance"
+		},
+		{
+			"bitmapNum": 0,
+			"offsets": [
+				-48,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "entity_up instance"
+		},
+		{
+			"bitmapNum": 0,
+			"offsets": [
+				99,
+				-89
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "entity_left instance"
+		},
+		{
+			"bitmapNum": 0,
+			"offsets": [
+				-12,
+				-115
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "entity_right instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/entitygary",
+	"position": [
+		100,
+		50
+	],
+	"healthicon": "ethergary",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		50,
+		-100
+	],
+	"bitmapArray": null,
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shieldNote.png">
+<SubTexture name="shield hold end0000" x="0" y="0" width="52" height="66" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="shield Scroll0000" x="52" y="0" width="171" height="171" frameX="0" frameY="0" frameWidth="169" frameHeight="169" />
+<SubTexture name="shield Confirm0000" x="223" y="0" width="243" height="241" frameX="-2" frameY="-3" frameWidth="251" frameHeight="249" />
+<SubTexture name="shield Confirm0001" x="0" y="241" width="243" height="241" frameX="-2" frameY="-3" frameWidth="251" frameHeight="249" />
+<SubTexture name="shield Confirm0002" x="243" y="241" width="219" height="219" frameX="-12" frameY="-19" frameWidth="251" frameHeight="249" />
+<SubTexture name="shield Confirm0003" x="243" y="241" width="219" height="219" frameX="-12" frameY="-19" frameWidth="251" frameHeight="249" />
+<SubTexture name="shield hold piece0000" x="462" y="241" width="52" height="46" frameX="0" frameY="0" frameWidth="50" frameHeight="44" />
+<SubTexture name="shield00000" x="0" y="482" width="155" height="155" frameX="-4" frameY="-3" frameWidth="161" frameHeight="160" />
+<SubTexture name="shield Pressed0000" x="0" y="482" width="155" height="155" frameX="-4" frameY="-3" frameWidth="161" frameHeight="160" />
+<SubTexture name="shield Pressed0001" x="0" y="482" width="155" height="155" frameX="-4" frameY="-3" frameWidth="161" frameHeight="160" />
+<SubTexture name="shield Pressed0002" x="155" y="482" width="163" height="162" frameX="0" frameY="0" frameWidth="161" frameHeight="160" />
+<SubTexture name="shield Pressed0003" x="155" y="482" width="163" height="162" frameX="0" frameY="0" frameWidth="161" frameHeight="160" />
+</TextureAtlas>

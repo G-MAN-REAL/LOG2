@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Waterfall_Animation.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Waterfall instance 10000" x="10" y="10" width="492" height="868" frameX="0" frameY="0" frameWidth="495" frameHeight="868"/>
+	<SubTexture name="Waterfall instance 10001" x="10" y="10" width="492" height="868" frameX="0" frameY="0" frameWidth="495" frameHeight="868"/>
+	<SubTexture name="Waterfall instance 10002" x="10" y="10" width="492" height="868" frameX="0" frameY="0" frameWidth="495" frameHeight="868"/>
+	<SubTexture name="Waterfall instance 10003" x="512" y="10" width="493" height="761" frameX="-2" frameY="-107" frameWidth="495" frameHeight="868"/>
+	<SubTexture name="Waterfall instance 10004" x="512" y="10" width="493" height="761" frameX="-2" frameY="-107" frameWidth="495" frameHeight="868"/>
+	<SubTexture name="Waterfall instance 10005" x="512" y="10" width="493" height="761" frameX="-2" frameY="-107" frameWidth="495" frameHeight="868"/>
+	<SubTexture name="Waterfall instance 10006" x="10" y="888" width="492" height="751" frameX="-2" frameY="-117" frameWidth="495" frameHeight="868"/>
+	<SubTexture name="Waterfall instance 10007" x="10" y="888" width="492" height="751" frameX="-2" frameY="-117" frameWidth="495" frameHeight="868"/>
+	<SubTexture name="Waterfall instance 10008" x="10" y="888" width="492" height="751" frameX="-2" frameY="-117" frameWidth="495" frameHeight="868"/>
+</TextureAtlas>

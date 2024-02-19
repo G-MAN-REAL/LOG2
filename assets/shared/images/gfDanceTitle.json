@@ -1,0 +1,10 @@
+{	
+	"titlex":230,
+	"titley":-75,
+	"startx":100,
+	"starty":576,
+	"gfx":-35,
+	"gfy":-20,
+	"backgroundSprite":"menustuff/Gary_Title_Screen_-_No_Spoiling_Nerd_No_Logo",
+	"bpm":100
+}

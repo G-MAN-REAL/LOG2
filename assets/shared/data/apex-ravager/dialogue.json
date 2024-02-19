@@ -1,0 +1,421 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Aw yeah, that was awesome!",
+			"background": "cutsceneback",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf",
+			"music": "Gary_Demo_Cutscene_-_Sewer_Song"
+		},
+		{
+			"expression": "closed laugh",
+			"text": "Hehe!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "gary"
+		},
+		{
+			"expression": "excited",
+			"text": "Hey nice job there, man!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Oh, why thank you. And you’re quite skilled yourself!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "normal",
+			"text": "I must say, you’re actually quite a nice person.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey thanks man. Kind of strange to compliment a rapper when most of the time they end up in jail for, like, the dumbest reasons and stuff.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Not me of course, if you were wondering. I’ve never went to jail.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "raised eyebrow",
+			"text": "Ending up in jail?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "gary"
+		},
+		{
+			"expression": "raised eyebrow",
+			"text": "So, is that your final warning, is it?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "What? What do you mean?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "After listening to you guys speak and sing, something just doesn’t seem exactly so subtle anymore.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "Is something wrong Gary? Was it so-",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I guess two things aren’t very subtle anymore, then.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Mm...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "face crack camera",
+			"text": "Ok, I think it’s time to cut the bullshit.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary",
+			"music": "Gary_Demo_Cutscene_-_Suspense_Song"
+		},
+		{
+			"expression": "face crack",
+			"text": "I will just say this now. You both do a terrible job at hiding what you’re trying to do.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack",
+			"text": "It’s so terrible that I find it unbelievably patronizing!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack",
+			"text": "Why did you think they needed to assign C.O.D.A. to track me down. His creator, I will admit, is a master of technological engineering after all.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack",
+			"text": "Instead YOU TWO show up, and all this singing and stalling is what you spend your time with.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "If you knew from the start then why didn’t you just do something about it then?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah I mean, well... actually honestly I was having fun, I don’t know what you’re talking about.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "face crack camera",
+			"text": "Well... to be perfectly honest.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack",
+			"text": "Neither of you are whom I despise in any way.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack",
+			"text": "There’s more to what I do, and I don’t misplace my Hatred.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait, what? Really?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"expression": "face crack",
+			"text": "The criminal justice system in the city is corrupt. I’m an assassin, but only to those I truly deem as criminals. It is not mindless killing.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack",
+			"text": "But since you’re here, I take it that you don’t exactly care or agree and you’ve already made your decision.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "I mean I’m willing to listen.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait, you’re a freakin assassin?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "face crack",
+			"text": "Wh-.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack camera",
+			"text": "Wait.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack",
+			"text": "Don’t tell me you don’t actually know anything about your own mission. Who I am, the whole point of your goal.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "To be honest, we just kinda ran into C.O.D.A. and when he asked us to help, we were just like ‘Okay’.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I mean we do stuff for the police but we’re just kinda in it for the fun regardless.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Not that I don’t mind capturing criminals. I just like rap battling!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "face crack",
+			"text": "Wait... If what you’re saying is true then...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack concerned",
+			"text": "Maybe I shouldn’t have jumped to conclusions.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "(A part of Gary’s face begins to crack.)",
+			"boxState": "normal",
+			"noSound": true,
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "face crack hurt",
+			"text": "Ah-.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "Ay, you good?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "face crack",
+			"text": "Damn it, my emotions were misappropriated.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack concerned",
+			"text": "I take back what I said earlier. Maybe we can just talk this out.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "Then why does it look like you’re trying to kill us? Not that I care...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "face crack concerned",
+			"text": "I’m not. I just...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack concerned",
+			"text": "(Gary begins to speak without moving his mouth.)",
+			"boxState": "normal",
+			"noSound": true,
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "face crack concerned",
+			"text": "I’ve been dealing with something lately.",
+			"boxState": "normal",
+			"noSound": false,
+			"background": "",
+			"speed": 0.04,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack camera",
+			"text": "Damn it I hate the police force. Their incessant entitlement complexes and high conviction rate.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gary"
+		},
+		{
+			"expression": "face crack afraid",
+			"text": "That’s it. I’m done. Move. You’re all in the way.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gary",
+			"music": "none"
+		},
+		{
+			"expression": "face crack hurt",
+			"text": "No don’t!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.105,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "?",
+			"noSound": false,
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "?",
+			"noSound": false,
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	],
+	"name": "apexravager"
+}

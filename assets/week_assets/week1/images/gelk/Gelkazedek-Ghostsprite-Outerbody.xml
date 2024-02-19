@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gelkazedek-Ghostsprite-Outerbody.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10000" x="0" y="0" width="1580" height="891" frameX="-23" frameY="0" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10001" x="1580" y="0" width="1618" height="891" frameX="-23" frameY="0" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10002" x="3198" y="0" width="1562" height="896" frameX="-23" frameY="-11" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10003" x="4760" y="0" width="1562" height="896" frameX="-23" frameY="-11" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10004" x="6322" y="0" width="1542" height="896" frameX="-23" frameY="-11" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10005" x="0" y="896" width="1565" height="896" frameX="0" frameY="-11" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10006" x="1565" y="896" width="1561" height="875" frameX="0" frameY="-32" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10007" x="3126" y="896" width="1587" height="859" frameX="-10" frameY="-32" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10008" x="4713" y="896" width="1543" height="832" frameX="-10" frameY="-39" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10009" x="6256" y="896" width="1530" height="832" frameX="-23" frameY="-39" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10010" x="0" y="1792" width="1547" height="807" frameX="-23" frameY="-59" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10011" x="1547" y="1792" width="1547" height="808" frameX="-23" frameY="-58" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10012" x="3094" y="1792" width="1671" height="819" frameX="-23" frameY="-47" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10013" x="4765" y="1792" width="1671" height="819" frameX="-23" frameY="-47" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10014" x="6436" y="1792" width="1639" height="819" frameX="-23" frameY="-47" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10015" x="0" y="2611" width="1639" height="844" frameX="-23" frameY="-47" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10016" x="1639" y="2611" width="1562" height="845" frameX="-23" frameY="-46" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10017" x="3201" y="2611" width="1562" height="868" frameX="-23" frameY="-39" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10018" x="4763" y="2611" width="1536" height="880" frameX="-23" frameY="-27" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10019" x="6299" y="2611" width="1538" height="832" frameX="-23" frameY="-59" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10020" x="0" y="3491" width="1538" height="813" frameX="-23" frameY="-58" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10021" x="1538" y="3491" width="1574" height="824" frameX="-23" frameY="-47" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10022" x="3112" y="3491" width="1578" height="819" frameX="-23" frameY="-47" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10023" x="4690" y="3491" width="1578" height="819" frameX="-23" frameY="-47" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10024" x="6268" y="3491" width="1645" height="819" frameX="-23" frameY="-47" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10025" x="0" y="4315" width="1645" height="818" frameX="-23" frameY="-47" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10026" x="1645" y="4315" width="1645" height="826" frameX="-23" frameY="-39" frameWidth="1694" frameHeight="907"/>
+	<SubTexture name="Gelkazedek_GhostSprite_Outerbody instance 10027" x="3290" y="4315" width="1645" height="826" frameX="-23" frameY="-39" frameWidth="1694" frameHeight="907"/>
+</TextureAtlas>

@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				82,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gelkazedek_Idle_Pose"
+		},
+		{
+			"offsets": [
+				101,
+				256
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gelkazedek_Up_Pose"
+		},
+		{
+			"offsets": [
+				143,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gelkazedek_Right_Pose"
+		},
+		{
+			"offsets": [
+				158,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gelkazedek_Left_Pose"
+		},
+		{
+			"offsets": [
+				175,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gelkazedek_Down_Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gelkazedek_Mask_Fix_Poses",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "gary-mikesHardLemonade",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		0,
+		-20
+	],
+	"bitmapArray": null,
+	"sing_duration": 4,
+	"scale": 1.2
+}

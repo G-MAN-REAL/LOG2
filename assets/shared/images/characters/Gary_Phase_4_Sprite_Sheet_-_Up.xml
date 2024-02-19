@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gary Phase 4 Sprite Sheet - Up.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="up0000" x="0" y="0" width="1597" height="977" frameX="0" frameY="0" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0001" x="1597" y="0" width="1969" height="977" frameX="0" frameY="0" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0002" x="0" y="977" width="1933" height="955" frameX="-2" frameY="-17" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0003" x="1933" y="977" width="1713" height="954" frameX="-2" frameY="-18" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0004" x="0" y="1932" width="1702" height="969" frameX="-5" frameY="-17" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0005" x="1702" y="1932" width="1706" height="969" frameX="-2" frameY="-17" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0006" x="0" y="2901" width="1723" height="922" frameX="-5" frameY="-16" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0007" x="1723" y="2901" width="1718" height="922" frameX="-4" frameY="-16" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0008" x="0" y="3823" width="1697" height="946" frameX="-2" frameY="-17" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0009" x="1697" y="3823" width="1681" height="946" frameX="-2" frameY="-17" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0010" x="0" y="4769" width="1656" height="911" frameX="-1" frameY="-18" frameWidth="1969" frameHeight="986"/>
+	<SubTexture name="up0011" x="1656" y="4769" width="1647" height="911" frameX="-4" frameY="-18" frameWidth="1969" frameHeight="986"/>
+</TextureAtlas>

@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-3
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Possessed_Gary_Idle instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Possessed_Gary_Up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Possessed_Gary_Right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Possessed_Gary_Left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Possessed_Gary_Down instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Normal_Gary_-_Apex_Ravager_-_Poses_2",
+	"position": [
+		150,
+		300
+	],
+	"healthicon": "gary-robitussinmode",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		20,
+		60
+	],
+	"bitmapArray": null,
+	"sing_duration": 4,
+	"scale": 1.1
+}

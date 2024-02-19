@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Meridian Collapse", "gabby", [255, 192, 203]]
+	],
+
+	"weekCharacters": [
+		"wendigo",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "sewers",
+
+	"storyName": "gary",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "Hard"
+}

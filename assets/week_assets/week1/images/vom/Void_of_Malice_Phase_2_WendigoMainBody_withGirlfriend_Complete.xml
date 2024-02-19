@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Void_of_Malice_Phase_2_WendigoMainBody_withGirlfriend_Complete.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10000" x="0" y="0" width="1222" height="968" frameX="-1" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10001" x="1222" y="0" width="1222" height="968" frameX="-1" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10002" x="2444" y="0" width="1213" height="968" frameX="-4" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10003" x="3657" y="0" width="1213" height="968" frameX="-4" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10004" x="4870" y="0" width="1200" height="968" frameX="-16" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10005" x="6070" y="0" width="1200" height="968" frameX="-16" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10006" x="0" y="968" width="1068" height="1069" frameX="-35" frameY="-53" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10007" x="1068" y="968" width="1068" height="1069" frameX="-35" frameY="-53" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10008" x="2136" y="968" width="1056" height="1122" frameX="-30" frameY="0" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10009" x="3192" y="968" width="1056" height="1122" frameX="-30" frameY="0" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10010" x="4248" y="968" width="1058" height="1089" frameX="-28" frameY="-105" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10011" x="5306" y="968" width="1058" height="1089" frameX="-28" frameY="-105" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10012" x="6364" y="968" width="1144" height="1056" frameX="-30" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10013" x="0" y="2090" width="1144" height="1056" frameX="-30" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10014" x="1144" y="2090" width="1160" height="1051" frameX="-39" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10015" x="2304" y="2090" width="1160" height="1051" frameX="-39" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10016" x="3464" y="2090" width="1045" height="1048" frameX="-41" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10017" x="4509" y="2090" width="1045" height="1048" frameX="-41" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10018" x="5554" y="2090" width="1045" height="1029" frameX="-41" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10019" x="6599" y="2090" width="1045" height="1029" frameX="-41" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10020" x="0" y="3146" width="1045" height="1004" frameX="-41" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10021" x="1045" y="3146" width="1045" height="1004" frameX="-41" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10022" x="2090" y="3146" width="1295" height="990" frameX="-40" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10023" x="3385" y="3146" width="1295" height="990" frameX="-40" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10024" x="4680" y="3146" width="1263" height="968" frameX="-39" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10025" x="5943" y="3146" width="1264" height="968" frameX="-38" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10026" x="0" y="4150" width="1215" height="968" frameX="-12" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10027" x="1215" y="4150" width="1215" height="968" frameX="-12" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10028" x="2430" y="4150" width="1200" height="968" frameX="-13" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10029" x="3630" y="4150" width="1200" height="968" frameX="-13" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10030" x="4830" y="4150" width="1211" height="968" frameX="0" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+	<SubTexture name="Wendigo_MainBody_Primary_Idle instance 10031" x="6041" y="4150" width="1211" height="968" frameX="0" frameY="-154" frameWidth="1335" frameHeight="1210"/>
+</TextureAtlas>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="revealedgary.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Revealed_Gary_Down0000" x="0" y="0" width="280" height="409" frameX="0" frameY="-71" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0001" x="0" y="0" width="280" height="409" frameX="0" frameY="-71" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0002" x="0" y="0" width="280" height="409" frameX="0" frameY="-71" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0003" x="280" y="0" width="278" height="422" frameX="0" frameY="-58" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0004" x="280" y="0" width="278" height="422" frameX="0" frameY="-58" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0005" x="558" y="0" width="271" height="447" frameX="0" frameY="-33" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0006" x="558" y="0" width="271" height="447" frameX="0" frameY="-33" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0007" x="829" y="0" width="265" height="469" frameX="0" frameY="-11" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0008" x="829" y="0" width="265" height="469" frameX="0" frameY="-11" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0009" x="1094" y="0" width="259" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0010" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0011" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0012" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0013" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0014" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0015" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0016" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0017" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0018" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0019" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0020" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0021" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0022" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0023" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Down0024" x="1353" y="0" width="256" height="480" frameX="0" frameY="0" frameWidth="280" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0000" x="1609" y="0" width="232" height="479" frameX="0" frameY="-1" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0001" x="1609" y="0" width="232" height="479" frameX="0" frameY="-1" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0002" x="0" y="480" width="240" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0003" x="0" y="480" width="240" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0004" x="0" y="480" width="240" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0005" x="240" y="480" width="240" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0006" x="480" y="480" width="257" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0007" x="480" y="480" width="257" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0008" x="737" y="480" width="259" height="480"/>
+	<SubTexture name="Revealed_Gary_Left0009" x="737" y="480" width="259" height="480"/>
+	<SubTexture name="Revealed_Gary_Left0010" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0011" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0012" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0013" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0014" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0015" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0016" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0017" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0018" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0019" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0020" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0021" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0022" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0023" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Left0024" x="996" y="480" width="256" height="480" frameX="0" frameY="0" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0000" x="1252" y="480" width="291" height="474" frameX="0" frameY="-6" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0001" x="1252" y="480" width="291" height="474" frameX="0" frameY="-6" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0002" x="1252" y="480" width="291" height="474" frameX="0" frameY="-6" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0003" x="1543" y="480" width="264" height="479" frameX="0" frameY="-1" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0004" x="1543" y="480" width="264" height="479" frameX="0" frameY="-1" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0005" x="0" y="960" width="248" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0006" x="0" y="960" width="248" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0007" x="0" y="960" width="248" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0008" x="248" y="960" width="254" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0009" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0010" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0011" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0012" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0013" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0014" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0015" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0016" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0017" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0018" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0019" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0020" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0021" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0022" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0023" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Right0024" x="502" y="960" width="256" height="480" frameX="0" frameY="0" frameWidth="291" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0000" x="758" y="960" width="264" height="493"/>
+	<SubTexture name="Revealed_Gary_Up0001" x="758" y="960" width="264" height="493"/>
+	<SubTexture name="Revealed_Gary_Up0002" x="1022" y="960" width="257" height="484" frameX="0" frameY="-9" frameWidth="264" frameHeight="493"/>
+	<SubTexture name="Revealed_Gary_Up0003" x="1022" y="960" width="257" height="484" frameX="0" frameY="-9" frameWidth="264" frameHeight="493"/>
+	<SubTexture name="Revealed_Gary_Up0004" x="1279" y="960" width="263" height="481" frameX="0" frameY="-12" frameWidth="264" frameHeight="493"/>
+	<SubTexture name="Revealed_Gary_Up0005" x="1279" y="960" width="263" height="481" frameX="0" frameY="-12" frameWidth="264" frameHeight="493"/>
+	<SubTexture name="Revealed_Gary_Up0006" x="1542" y="960" width="259" height="479" frameX="0" frameY="-14" frameWidth="264" frameHeight="493"/>
+	<SubTexture name="Revealed_Gary_Up0007" x="0" y="1453" width="256" height="480" frameX="0" frameY="-13" frameWidth="264" frameHeight="493"/>
+	<SubTexture name="Revealed_Gary_Up0008" x="256" y="1453" width="256" height="480" frameX="0" frameY="-13" frameWidth="264" frameHeight="493"/>
+	<SubTexture name="Revealed_Gary_Up0009" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0010" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0011" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0012" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0013" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0014" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0015" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0016" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0017" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0018" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0019" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0020" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0021" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0022" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0023" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Revealed_Gary_Up0024" x="996" y="480" width="256" height="480" frameX="0" frameY="-13" frameWidth="259" frameHeight="480"/>
+	<SubTexture name="Void_Gary_Idle0000" x="512" y="1453" width="256" height="480"/>
+	<SubTexture name="Void_Gary_Idle0001" x="512" y="1453" width="256" height="480"/>
+	<SubTexture name="Void_Gary_Idle0002" x="768" y="1453" width="256" height="480"/>
+	<SubTexture name="Void_Gary_Idle0003" x="768" y="1453" width="256" height="480"/>
+</TextureAtlas>

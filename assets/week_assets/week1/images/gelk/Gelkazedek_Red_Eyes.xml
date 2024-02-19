@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gelkazedek_Red_Eyes.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dimensional_Geyser instance 10000" x="3" y="3" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10001" x="610" y="3" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10002" x="1217" y="3" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10003" x="1824" y="3" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10004" x="2431" y="3" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10005" x="3038" y="3" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10006" x="3" y="900" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10007" x="610" y="900" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10008" x="1217" y="900" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10009" x="1824" y="900" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10010" x="2431" y="900" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10011" x="3038" y="900" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10012" x="3" y="1797" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10013" x="610" y="1797" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10014" x="1217" y="1797" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10015" x="1824" y="1797" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10016" x="2431" y="1797" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10017" x="3038" y="1797" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10018" x="3" y="2694" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10019" x="610" y="2694" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10020" x="1217" y="2694" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10021" x="1824" y="2694" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10022" x="2431" y="2694" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10023" x="3038" y="2694" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10024" x="3" y="3591" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10025" x="610" y="3591" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10026" x="1217" y="3591" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10027" x="1824" y="3591" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10028" x="2431" y="3591" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10029" x="3038" y="3591" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10030" x="3" y="4488" width="604" height="894"/>
+	<SubTexture name="Dimensional_Geyser instance 10031" x="610" y="4488" width="604" height="894"/>
+</TextureAtlas>

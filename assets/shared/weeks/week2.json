@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["Entity", "ethergary", [255, 255, 255]],
+        ["Cynical Disaster", "ether2", [255, 255, 255]],
+        ["Eviscerator", "ether3", [255, 255, 255]],
+		["Exothermic Blaze", "ether3", [255, 255, 255]],
+		["Enraged Elemental", "ether4", [255, 255, 255]],
+		["Ethereal Rage", "touros", [255, 255, 255], 3]
+	],
+
+	"weekCharacters": [
+		"gary-normal-pilled",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "sewers",
+
+	"storyName": "gary",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties":"Hard"
+}

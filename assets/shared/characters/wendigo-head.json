@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				51,
+				245
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Wendigo_Head_Idle instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				127,
+				176
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Wendigo_Head_Left instance"
+		},
+		{
+			"offsets": [
+				82,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Wendigo_Head_Down instance"
+		},
+		{
+			"offsets": [
+				39,
+				322
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Wendigo_Head_Up instance"
+		},
+		{
+			"offsets": [
+				46,
+				204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Wendigo_Head_Right instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Wendigo_Head-VoMP2_Poses",
+	"position": [
+		50,
+		350
+	],
+	"healthicon": "wendigo",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-230,
+		-20
+	],
+	"bitmapArray": null,
+	"sing_duration": 4,
+	"scale": 1.5
+}

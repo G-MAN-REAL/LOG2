@@ -1,0 +1,90 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": null,
+		"player1": "coda",
+		"player2": "gabby",
+		"player3": null,
+		"events": [
+			[
+				10000,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				42833.3333333333,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				62916.6666666667,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				134563.866323228,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				165980.532989895,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				188063.866323229,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"mania": 5,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Meridian-Collapse"
+	}
+}

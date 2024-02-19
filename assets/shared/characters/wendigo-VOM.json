@@ -1,0 +1,115 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				338,
+				250
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Wendigo_Idle"
+		},
+		{
+			"offsets": [
+				458,
+				389
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Wendigo_Left"
+		},
+		{
+			"offsets": [
+				505,
+				204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Wendigo_Down"
+		},
+		{
+			"offsets": [
+				520,
+				386
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Wendigo_Up"
+		},
+		{
+			"offsets": [
+				684,
+				408
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Wendigo_Right"
+		},
+		{
+			"offsets": [
+				643,
+				577
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transition",
+			"indices": [],
+			"name": "portalIn"
+		},
+		{
+			"offsets": [
+				335,
+				244
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-tired",
+			"indices": [],
+			"name": "Wendigo_Idle-Tired instance 1"
+		},
+		{
+			"offsets": [
+				328,
+				239
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "resume",
+			"indices": [],
+			"name": "Wendigo_Idle-Head_Raise instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Void_of_Malice_Complete_SpriteSheet-butIfixedtheClipping",
+	"position": [
+		-420,
+		120
+	],
+	"healthicon": "wendigo",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		100,
+		200
+	],
+	"bitmapArray": [
+		"characters/wendigo-portal",
+		"characters/Void_of_Malice_Wendigo-Tired_HeadRaise"
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

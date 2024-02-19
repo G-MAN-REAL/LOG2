@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gfidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfdiff",
+	"position": [
+		150,
+		200
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"updateFrac": 1
+}

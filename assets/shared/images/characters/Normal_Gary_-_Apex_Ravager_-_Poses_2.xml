@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Normal Gary - Apex Ravager - Poses 2.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Possessed_Gary_Down instance 10000" x="0" y="0" width="351" height="495" frameX="0" frameY="-80" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10001" x="0" y="0" width="351" height="495" frameX="0" frameY="-80" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10002" x="0" y="0" width="351" height="495" frameX="0" frameY="-80" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10003" x="351" y="0" width="348" height="505" frameX="0" frameY="-70" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10004" x="351" y="0" width="348" height="505" frameX="0" frameY="-70" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10005" x="699" y="0" width="325" height="535" frameX="-15" frameY="-40" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10006" x="699" y="0" width="325" height="535" frameX="-15" frameY="-40" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10007" x="1024" y="0" width="317" height="562" frameX="-15" frameY="-13" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10008" x="1024" y="0" width="317" height="562" frameX="-15" frameY="-13" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10009" x="1341" y="0" width="310" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10010" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10011" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10012" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10013" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10014" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10015" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10016" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10017" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10018" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10019" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10020" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10021" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10022" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10023" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Down instance 10024" x="1651" y="0" width="307" height="575" frameX="-15" frameY="0" frameWidth="351" frameHeight="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10000" x="0" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10001" x="0" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10002" x="308" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10003" x="308" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10004" x="0" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10005" x="0" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10006" x="308" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10007" x="308" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10008" x="0" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10009" x="0" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10010" x="308" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Idle instance 10011" x="308" y="575" width="308" height="575"/>
+	<SubTexture name="Possessed_Gary_Left instance 10000" x="616" y="575" width="278" height="571" frameX="0" frameY="-2" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10001" x="616" y="575" width="278" height="571" frameX="0" frameY="-2" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10002" x="894" y="575" width="287" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10003" x="894" y="575" width="287" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10004" x="894" y="575" width="287" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10005" x="1181" y="575" width="287" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10006" x="1468" y="575" width="308" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10007" x="1468" y="575" width="308" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10008" x="0" y="1150" width="310" height="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10009" x="0" y="1150" width="310" height="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10010" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10011" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10012" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10013" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10014" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10015" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10016" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10017" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10018" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10019" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10020" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10021" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10022" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10023" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Left instance 10024" x="310" y="1150" width="307" height="573" frameX="0" frameY="0" frameWidth="310" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10000" x="617" y="1150" width="348" height="566" frameX="0" frameY="-7" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10001" x="617" y="1150" width="348" height="566" frameX="0" frameY="-7" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10002" x="965" y="1150" width="315" height="571" frameX="0" frameY="-2" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10003" x="965" y="1150" width="315" height="571" frameX="0" frameY="-2" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10004" x="1280" y="1150" width="296" height="572" frameX="0" frameY="-1" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10005" x="1280" y="1150" width="296" height="572" frameX="0" frameY="-1" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10006" x="1280" y="1150" width="296" height="572" frameX="0" frameY="-1" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10007" x="1576" y="1150" width="304" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10008" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10009" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10010" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10011" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10012" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10013" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10014" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10015" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10016" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10017" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10018" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10019" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10020" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10021" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10022" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10023" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Right instance 10024" x="0" y="1723" width="306" height="573" frameX="0" frameY="0" frameWidth="348" frameHeight="573"/>
+	<SubTexture name="Possessed_Gary_Up instance 10000" x="306" y="1723" width="282" height="585" frameX="0" frameY="0" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10001" x="306" y="1723" width="282" height="585" frameX="0" frameY="0" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10002" x="588" y="1723" width="297" height="576" frameX="0" frameY="-9" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10003" x="588" y="1723" width="297" height="576" frameX="0" frameY="-9" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10004" x="885" y="1723" width="314" height="575" frameX="0" frameY="-10" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10005" x="885" y="1723" width="314" height="575" frameX="0" frameY="-10" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10006" x="1199" y="1723" width="310" height="573" frameX="0" frameY="-12" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10007" x="1509" y="1723" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10008" x="0" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10009" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10010" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10011" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10012" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10013" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10014" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10015" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10016" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10017" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10018" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10019" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10020" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10021" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10022" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10023" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+	<SubTexture name="Possessed_Gary_Up instance 10024" x="307" y="2308" width="307" height="574" frameX="0" frameY="-11" frameWidth="314" frameHeight="585"/>
+</TextureAtlas>

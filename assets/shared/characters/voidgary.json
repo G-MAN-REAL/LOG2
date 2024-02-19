@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"bitmapNum": 0,
+			"name": "Void_Gary_Idle"
+		},
+		{
+			"offsets": [
+				501,
+				252
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"bitmapNum": 0,
+			"name": "Void_Gary_Left"
+		},
+		{
+			"offsets": [
+				81,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"bitmapNum": 0,
+			"name": "Void_Gary_Down"
+		},
+		{
+			"offsets": [
+				328,
+				337
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"bitmapNum": 0,
+			"name": "Void_Gary_Up"
+		},
+		{
+			"offsets": [
+				129,
+				358
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"bitmapNum": 0,
+			"name": "Void_Gary_Right"
+		},
+		{
+			"offsets": [
+				510,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cutscene",
+			"indices": [],
+			"bitmapNum": 1,
+			"name": "cutscene"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/voidgary",
+	"position": [
+		84,
+		310
+	],
+	"healthicon": "gary-robitussinmode",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"bitmapArray": [
+		"characters/garydies"
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

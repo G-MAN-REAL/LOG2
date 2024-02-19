@@ -1,0 +1,1116 @@
+{
+	"dialogue": [
+		{
+			"expression": "cafe happy",
+			"text": "Oh yes of course absolutely!",
+			"background": "cutsceneback4",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garyAlt",
+			"music": "Gary_Demo_Cutscene_-_Cafe_Music_1"
+		},
+		{
+			"expression": "joey talking",
+			"text": "Alright cool, so. As I was saying...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "joey"
+		},
+		{
+			"expression": "joey talking",
+			"text": "Don’t you think... that... elephants could be as smart as humans? I mean maybe they just need a proper education like we do.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "joey"
+		},
+		{
+			"expression": "joey talking",
+			"text": "Well, ahah. I mean, I know not everyone here is human but like... any intelligent life form could probably do it too right?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "joey"
+		},
+		{
+			"expression": "cafe happy",
+			"text": "Well by that logic, perhaps we could use that to solve world hunger with elephants’ newfound intelligence!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "garyAlt"
+		},
+		{
+			"expression": "you know thats true",
+			"text": "You know that’s true...!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "joey"
+		},
+		{
+			"expression": "joey talking",
+			"text": "And I can finally show them my ideas on solving world hunger!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "joey"
+		},
+		{
+			"expression": "joey get this",
+			"text": "GET THIS:",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "joey"
+		},
+		{
+			"expression": "joey talking",
+			"text": "What if we ate, aaall the poor people in the world? That way, there would no longer be any, poverty in the world!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "joey"
+		},
+		{
+			"expression": "cafe happy",
+			"text": "Oh! ...Well now that my friend is a g-genius i...idea.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "garyAlt"
+		},
+		{
+			"expression": "joey thanks i try",
+			"text": "Ahah! Thanks I try.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "joey"
+		},
+		{
+			"expression": "well now",
+			"text": "Eheh.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.14,
+			"portrait": "garyAlt"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey, can I get an expresso real quick?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "silver"
+		},
+		{
+			"expression": "cafe happy",
+			"text": "Oh yes! Coming right u-",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garyAlt"
+		},
+		{
+			"expression": "talk",
+			"text": "(As Gary is speaking to the customer, a small robot enters the cafe through the entrance.)",
+			"background": "cutsceneback3",
+			"boxState": "normal",
+			"speed": 0.015,
+			"portrait": "none",
+			"music": "none"
+		},
+		{
+			"expression": "concerned",
+			"text": "Where is he?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "coda"
+		},
+		{
+			"expression": "talk",
+			"text": "(The moment Gary notices the robot enter, he quickly digs through various objects in the cabinets.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none",
+			"music": "Gary_Demo_Cutscene_-_Cafe_Music_2"
+		},
+		{
+			"expression": "talk",
+			"text": "(This robot, upon asking people around, seems to have no luck finding who he’s looking for.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "normal",
+			"text": "Hmm, alright. Huhhh, guess I’ll just have a coffee break then.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "coda"
+		},
+		{
+			"expression": "talk",
+			"text": "(Upon approaching the counter, Gary is seen wearing a wig.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "raised",
+			"text": "Hey Harry, have you seen Gary?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "Uhhh... No?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.115,
+			"portrait": "garyAlt"
+		},
+		{
+			"expression": "concerned",
+			"text": "Alright. I’ll have the usual then.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "All ready for you, sir!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "garyAlt"
+		},
+		{
+			"expression": "talk",
+			"text": "(Interrupting the robot, Gary \\ immediately places a cup of coffee in front him.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "normal",
+			"text": "Wait... How would you have my order ready if I barely showed up just... now?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "coda"
+		},
+		{
+			"expression": "raised eyebrow",
+			"text": "Uhh, I don’t know what you’re talking about. We, uh, made it before you got here.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "garyAlt"
+		},
+		{
+			"expression": "normal",
+			"text": "...",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.05,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "(Smiling)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.05,
+			"portrait": "garyAlt"
+		},
+		{
+			"expression": "normal",
+			"text": "You’re the target, aren’t you?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "coda"
+		},
+		{
+			"expression": "nervous",
+			"text": "What do you mean, what targe-",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garyAlt"
+		},
+		{
+			"expression": "talk",
+			"text": "(BLAST! A laser energy shot is fired out of the robot’s hand cannon. Quickly afterwards, Gary dodges easily. In the crossfire, a poster with a blue painted bird gets destroyed in the process.)",
+			"noSound": false,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.01,
+			"portrait": "none"
+		},
+		{
+			"expression": "raised",
+			"text": "You know, if you hadn’t dodged that, I probably still would’ve thought you were Harry. No one else has less than a second of reaction time.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "coda"
+		},
+		{
+			"expression": "raised eyebrow",
+			"text": "So, are we gonna fight or something? Do you really wanna do this here?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "garyAlt",
+			"music": "Gary_Demo_Cutscene_-_Cafe_Music_3"
+		},
+		{
+			"expression": "normal",
+			"text": "It will be a lot easier if you don’t resist.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "Well I guess I’m doing this!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "(Gary dodges several more shots fired at him, maneuvering carefully around the cafe so as to not break anything.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "(As he’s doing so, Gary can’t seem to find a way to escape. As such, he retreats by flushing himself down the toilet.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "normal",
+			"text": "Wha- did he seriously just... Ugh!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "coda"
+		},
+		{
+			"expression": "facepalm",
+			"text": "Stupid shapeshifting...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "coda"
+		},
+		{
+			"expression": "concerned",
+			"text": "Ahhh, I’ll just have to take the long way around.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "I should hurry though.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "coda"
+		},
+		{
+			"expression": "talk",
+			"text": "(The robot quickly runs out of the cafe.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "(Meanwhile...)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "BLACK",
+			"speed": 0.055,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "(Elsewhere in the area...)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "cutsceneback2",
+			"speed": 0.035,
+			"portrait": "none",
+			"music": "Gary_Demo_Cutscene_-_Cyberpunk_Song"
+		},
+		{
+			"expression": "talk",
+			"text": "(Boyfriend and Girlfriend are taking a trip to a cybernetic neon city, buying treats at a concession stand.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "(Girlfriend has a strawberry sundae while Boyfriend gets a cold, ice cream parfait.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Thank you!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, thanks a lot!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(The vendor gives them a thumbs up and they continue to walk down the streets.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "(Suddenly, as Boyfriend is eating his parfait, he accidentally drops his microphone into a nearby sewer drain.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "(Attempting to retrieve it, he attempts to dive in head first, but remembers that he cannot fit into a 1 foot gap.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "(Girlfriend walks up to him soon after.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey, when we get back to the hotel, you wanna play some smash?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "gf"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Do I wanna what?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "talk",
+			"text": "(As the two are speaking, the robot who was chasing after Gary runs into Boyfriend and Girlfriend.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "normal",
+			"text": "Oh hey! Wait a second, it’s you two!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "coda"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Huh? Oh, hi there! What’s up?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "normal",
+			"text": "My name is C.O.D.A., I’m the android sent by cy-... I mean I’m a robot that works with the police force.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "coda"
+		},
+		{
+			"expression": "raised",
+			"text": "My creator and I were task with tracking down a criminal most commonly known as Gary, he looks like this:",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "coda"
+		},
+		{
+			"expression": "talk",
+			"text": "(C.O.D.A. displays a holographic image of a stick figure character.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Wait... isn’t that just Henry Stickmin?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "normal",
+			"text": "Huh? Oh yeah. Sorry. That is Henry Stickmin! ...Here you go.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "coda"
+		},
+		{
+			"expression": "BOTHtalk",
+			"text": "Ooooohhhhhh!!! Yeah okay!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "raised",
+			"text": "You’ve already done stuff for the police before right? I’ve actually seen you a couple times at the station office.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "You should be able to identify him with the image I provided.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "coda"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Yeah, we’ve helped out the police a bunch of times! You need us to hit 'em up with a good ol’ fashion rap battle?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "talk",
+			"text": "Boyfriend usually does the rapping part, and I’m the one who actually ends up restraining them.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "raised",
+			"text": "Actually, I think that would work pretty well.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "You know what, how about this:",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "coda"
+		},
+		{
+			"expression": "raised",
+			"text": "Gary should actually currently be in the sewers right now--it’s honestly like a maze down there sometimes...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "Find him and challenge him to a rap battle. Then you can stall for time until I arrive.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "coda"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "We got you covered man! Plus, if I’m being honest I kinda dropped my microphone down in the sewers anyway. I... should probably go get that too.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "normal",
+			"text": "Alright then! You can send me a text message with your smartphone using this phone number here.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "coda"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, I can take care of that! Boyfriend kind of broke his phone when I kept beating him in that one pool table game you play through the messenger.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Hey! You only beat me, like, uh... this many times!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Boyfriend holds up 8 fingers.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "I mean I can also beat you in other ways if you want~.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "WHAT, HUH? AHEM. I mean uh, anyway! Yeah I think we got this covered, uh, C.O.D.A. was it?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.085,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "talk",
+			"text": "Don’t worry I’ll take care of him. Hehe!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "raised",
+			"text": "You’re implying that you’d be able to defend yourself in the case of an emergency, right?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "coda"
+		},
+		{
+			"expression": "talk",
+			"text": "Of course! I mean I’ve dealt with tons of people trying to attack us before. Nothing’s really considered a threat anymore.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Unless they were made of thunder... or bugs! Ugh...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "raised",
+			"text": "It’s not that I don’t have faith in your abilities, but this was still technically the case that I was assigned.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "Therefore, technically I have to be the one to apprehend the target. Unless I get the approval, otherwise, but... I don’t think it will be a big deal.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "coda"
+		},
+		{
+			"expression": "talk",
+			"text": "No problem.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "concerned",
+			"text": "Besides...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "I am way more equipped with dealing with this monster than a Dearest could ever be.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "coda"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait, what?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Hey, uh shouldn’t we hurry before he gets away or something?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "raised",
+			"text": "Yes, that is true! And we’ve got no time to lose.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "coda"
+		},
+		{
+			"expression": "normal",
+			"text": "Alright, I’ll be going now. Good luck, and thank you both!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "coda"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Later dude!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "talk",
+			"text": "Um... Bye now I guess...?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "(C.O.D.A. proceeds to quickly jet forward towards the sewer’s entrance.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none",
+			"music": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "(With Girlfriend looking at Boyfriend a bit confused, they both continue forward themselves, thereafter.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "(Climbing down a ladder, Boyfriend helps Girlfriend get down by holding her hand.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "BLACK",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "(They proceed to walk down the sidewalk area designated for maintenance.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "cutsceneback",
+			"speed": 0.015,
+			"portrait": "none",
+			"music": "Gary_Demo_Cutscene_-_Sewer_Song"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Hm... lot of reverb down here.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "talk",
+			"text": "You know Boyfriend, why does it have to be that specific microphone anyway?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I can just make you a new one if you want!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "It should be around here somewhere. Don’t worry we’ll find it!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "talk",
+			"text": "Or maybe...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "We won’t have to.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Nearby, a stick figure stands in the distance holding a microphone.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Wait a second... Is that him?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "talk",
+			"text": "I think so.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gf"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Well that was quick.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.00500000000000001,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "Hey! How’s it going man?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Gary turns around, smiling.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "raised eyebrow",
+			"text": "...?",
+			"noSound": false,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.09,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "(Boyfriend and Girlfriend approach him.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "normal",
+			"text": "Oh, well if it isn’t Boyfriend from Friday Night Funkin’!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gary"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "You know it! That’s me! What’s your name? You a fan?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "normal",
+			"text": "The name’s Gary, and I suppose I could say that considering I’ve seen you around from time to time on the television.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "BFtalk",
+			"text": "No way! That sounds awesome!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfandgf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hi Gary! We were just down here... because... uh..... Boyfriend kinda dropped his microphone down here somewhere.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ugh, it’s probably gonna take FOREVER to find...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "normal",
+			"text": "Oh, so this was yours! My apologies, here.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "(Gary happened to have the microphone on hand and gives it to Boyfriend.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh! No way, thanks man!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "O-... O-Oh... and uh... Also...",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "...we kinda... wanted to see how the speakers would sound in a very echoey environment down here...!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait, really? ...Huh... Yeah! Good idea Girlfriend!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah! Eheheh... (Girlfriend smiles nervously.)",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "(We need at least SOME reason to stick around and stall for time.)",
+			"noSound": false,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "normal",
+			"text": "Now doesn’t THAT sound like a wonderful idea!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gary"
+		},
+		{
+			"expression": "raised eyebrow",
+			"text": "Although, I question whether you intended on singing by yourself down here. Don’t you usually do so with a partner?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh yeah, you’re right... You know what, why don’t YOU be my partner?",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Very well then! I see no reason not to.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gary"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh! I’ve got the speakers! One second.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Girlfriend uses her power to summon the stereo system.)",
+			"noSound": true,
+			"boxState": "normal",
+			"background": "",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "normal",
+			"text": "Alright, let’s see what you’ve got.",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gary"
+		},
+		{
+			"expression": "pissed",
+			"text": "I could say the same thing! Let’s do this!",
+			"background": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	],
+	"name": "stickman"
+}

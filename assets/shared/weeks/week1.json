@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Stickman", "gary-normalpilled", [80, 80, 80]],
+		["Excitement", "gary-offaperc", [80, 80, 80]],
+		["Apex Ravager", "gary-robitussinmode", [80, 80, 80]],
+		["Void of Malice", "wendigo", [80, 80, 80]],
+		["Gelkazedek", "gary-mikesHardLemonade", [80, 80, 80]]
+	],
+
+	"weekCharacters": [
+		"gary-normal-pilled",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "sewers",
+
+	"storyName": "gary",
+	"weekBefore": "week1",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "Hard"
+}

@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gelkazedek_Phase3_Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Gelkazedek_Phase3_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Gelkazedek_Phase3_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gelkazedek_Phase3_Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gelkazedek_Phase3_down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gelkazedek_P3_Ravager_Wendio_SpriteSheet",
+	"position": [
+		-430,
+		-350
+	],
+	"healthicon": "wendigo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		280,
+		300
+	],
+	"bitmapArray": null,
+	"sing_duration": 4,
+	"scale": 0.9
+}

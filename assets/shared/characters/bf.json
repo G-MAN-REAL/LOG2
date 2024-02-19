@@ -1,0 +1,611 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-8
+			],
+			"anim": "singLEFT-closed",
+			"fps": 24,
+			"name": "Symbol 94 copy",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-8
+			],
+			"anim": "singLEFT-open1",
+			"fps": 24,
+			"name": "Symbol 94",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+			
+		},
+		{
+			"offsets": [
+				3,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-open2",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Symbol 94 copy 27"
+			
+		},
+		{
+			"offsets": [
+				3,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-open3",
+			"indices": [
+			],
+			"name": "left e"
+			
+		},
+		{
+			"offsets": [
+				3,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-open4",
+			"indices": [
+			],
+			"name": "left aeh"
+			
+		},
+		{
+			"offsets": [
+				3,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-open5",
+			"indices": [
+			],
+			"name": "left o"
+			
+		},
+		{
+			"offsets": [
+				-50,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-closed",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Symbol 94 copy 2"
+			
+		},
+		{
+			"offsets": [
+				-50,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-open1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Symbol 94 copy 1"
+			
+		},
+		{
+			"offsets": [
+				-50,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-open2",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Symbol 94 copy 3"
+			
+		},
+		{
+			"offsets": [
+				-50, -6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-open3",
+			"indices": [
+			],
+			"name": "right aeh"
+			
+		},
+		{
+			"offsets": [
+				-50, -6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-open4",
+			"indices": [
+			],
+			"name": "right ah"
+			
+		},
+		{
+			"offsets": [
+				-50, -6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-open5",
+			"indices": [
+			],
+			"name": "right o"
+			
+		},
+		{
+			"offsets": [
+				-24,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-closed",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Symbol 94 copy 4"
+			
+		},
+		{
+			"offsets": [
+				-24,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-open1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Symbol 94 copy 5"
+			
+		},
+		{
+			"offsets": [
+				-24,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-open2",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Symbol 94 copy 6"
+			
+		},
+		{
+			"offsets": [
+				-24,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-open3",
+			"indices": [
+			],
+			"name": "down aeh"
+			
+		},
+		{
+			"offsets": [
+				-24,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-open4",
+			"indices": [
+			],
+			"name": "down ah"
+			
+		},
+		{
+			"offsets": [
+				-24,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-open5",
+			"indices": [
+			],
+			"name": "down e"
+			
+		},
+		{
+			"offsets": [
+				-50,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-closed",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Up nigga copy"
+			
+		},
+		{
+			"offsets": [
+				-50,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-open1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Up nigga"
+			
+		},
+		{
+			"offsets": [
+				-50,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-open2",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Up nigga copy 2"
+			
+		},
+		{
+			"offsets": [
+				-50,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-open3",
+			"indices": [
+			],
+			"name": "up aeh"
+			
+		},
+		{
+			"offsets": [
+				-50,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-open4",
+			"indices": [
+			],
+			"name": "up e"
+			
+		},
+		{
+			"offsets": [
+				-50,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-open5",
+			"indices": [
+			],
+			"name": "up o"
+			
+		},
+		{
+			"offsets": [
+				-7,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "BF idle alt"
+			
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle-closed",
+			"fps": 24,
+			"name": "bf idle alt 2",
+			
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"bitmapArray": [
+		"characters/bf-alt"
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
