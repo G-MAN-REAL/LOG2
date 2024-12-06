@@ -237,7 +237,7 @@ class Character extends FlxSprite
 	}
 	override function update(elapsed:Float)
 	{
-		if (oldScale != scale / ClientPrefs.data.graphics_power)
+		if (oldScale != scale)
 		{
 			_updateScale(scale);
 		}
@@ -380,10 +380,11 @@ class Character extends FlxSprite
 		if(!isAnimateAtlas) animation.play(AnimName, Force, Reversed, Frame);
 		else atlas.anim.play(AnimName, Force, Reversed, Frame);
 
+		updateHitbox();
 		if (animOffsets.exists(AnimName))
 		{
 			var daOffset = animOffsets.get(AnimName);
-			offset.set(daOffset[0], daOffset[1]);
+			offset.add(daOffset[0], daOffset[1]);
 		}
 		//else offset.set(0, 0);
 
@@ -425,6 +426,12 @@ class Character extends FlxSprite
 	{
 		scale.set(point.x / ClientPrefs.data.graphics_power, point.y / ClientPrefs.data.graphics_power);
 		oldScale = scale;
+		updateHitbox();
+		if (animOffsets.exists(animation.curAnim.name))
+		{
+			var daOffset = animOffsets.get(animation.curAnim.name);
+			offset.add(daOffset[0], daOffset[1]);
+		}
 
 	}
 

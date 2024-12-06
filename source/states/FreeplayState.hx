@@ -273,8 +273,10 @@ class FreeplayState extends MusicBeatState
 		}
 		for (icon in iconArray)
 			{
-					if ((FlxG.mouse.overlaps(icon) && icon.active) || FlxG.mouse.overlaps(grpSongs.members[icon.ID]) && grpSongs.members[icon.ID].active) 
+				if (icon.active && grpSongs.members[icon.ID].active){
+					if (FlxG.mouse.overlaps(icon) || FlxG.mouse.overlaps(grpSongs.members[icon.ID])) 
 					{
+						icon.alpha = grpSongs.members[icon.ID].alpha = 1;
 						if (curSelected != icon.ID)
 						changeSelection(icon.ID, Difficulty.getString() == "EASY");
 						if (FlxG.mouse.justPressed && freeplayEnabled[Paths.formatToSongPath(songs[curSelected].songName)])
@@ -309,7 +311,13 @@ class FreeplayState extends MusicBeatState
 							destroyFreeplayVocals();
 						}
 					}
+					else
+					{
+						icon.alpha = grpSongs.members[icon.ID].alpha = 0.6;
+					}
+					
 				}
+			}
 		if (FlxG.sound.music.volume < 0.7)
 		{
 			FlxG.sound.music.volume += 0.5 * FlxG.elapsed;
